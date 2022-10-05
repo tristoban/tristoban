@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tristoban
-- 👀 I’m interested in webdesign HTML, CSS and JS
-- 🌱 I’m currently learning React
+- 👀 I’m interested in BackEnd
+- 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on A LOT of projects
 - 📫 How to reach me via e-mail at hola@cloomy.us
 
