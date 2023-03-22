@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tristoban
 - 👀 I’m interested in BackEnd
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning Spring / Java
 - 💞️ I’m looking to collaborate on A LOT of projects
 - 📫 How to reach me via e-mail at hola@cloomy.us
 
